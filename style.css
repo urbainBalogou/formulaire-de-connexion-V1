@@ -23,12 +23,11 @@ body {
     
 }
 span{
-    color:blue;
+    color:#fff;
     font-size:small;
     display:flex;
     justify-content: center;
     padding:10px 0px 10px 0;
-    text-transform: uppercase;
 }
 header{
     color:#fff;
